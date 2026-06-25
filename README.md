@@ -3,7 +3,7 @@
 > **One pub team. Every legend in history.**
 > Inherit eleven Sunday-league nobodies and climb a 24-rung gauntlet against the greatest clubs and national sides in football history. Draft legends, forge your own club, manage tactics and fatigue — lose once and the run is dead.
 
-**▶ Play:** _add your live URL here after deploy_
+**▶ Play: [beatthegauntlet.tech](https://beatthegauntlet.tech)**
 
 ![The Gauntlet](assets/og.png)
 
