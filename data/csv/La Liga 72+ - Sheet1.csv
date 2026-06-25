@@ -1,0 +1,396 @@
+RANK,PLAYER,NAT,TEAM,POS,OVR,PAC,SHO,PAS,DRI,DEF,PHY
+,,,,,,,,,,,
+3,Kylian Mbappé,,Real Madrid,ST,91,97,90,81,92,37,76
+9,Jude Bellingham,,Real Madrid,CAM,90,80,86,83,90,78,85
+11,Raphinha,,Fc Barcelona,LM,89,91,84,85,87,53,75
+14,Lamine Yamal,,Fc Barcelona,RM,89,85,81,86,90,23,53
+19,Pedri,,Fc Barcelona,CM,89,77,73,85,91,78,77
+24,Federico Valverde,,Real Madrid,CM,89,88,84,84,84,83,85
+26,Vini Jr.,,Real Madrid,LW,89,95,84,81,91,29,69
+28,Thibaut Courtois,,Real Madrid,GK,89,85,89,76,90,46,88
+30,Robert Lewandowski,,Fc Barcelona,ST,88,74,89,79,85,44,84
+43,Jan Oblak,,Atletico De Madrid,GK,88,85,90,78,87,46,86
+52,Frenkie de Jong,,Fc Barcelona,CM,87,82,71,85,87,78,77
+62,Jules Koundé,,Fc Barcelona,RB,87,84,47,74,79,86,84
+66,Julián Alvarez,,Atletico De Madrid,ST,87,85,87,81,87,57,79
+81,Antonio Rüdiger,,Real Madrid,CB,86,79,55,72,70,84,86
+85,Trent Alexander-Arnold,,Real Madrid,RB,86,76,72,89,80,80,74
+97,Nico Williams,,Athletic Club,LM,86,93,76,80,87,36,66
+101,Marc-André ter Stegen,,Fc Barcelona,GK,86,84,84,89,85,47,84
+117,Antoine Griezmann,,Atletico De Madrid,ST,85,77,86,85,88,59,73
+124,Carvajal,,Real Madrid,RB,85,80,58,79,81,81,79
+125,Unai Simón,,Athletic Club,GK,85,84,80,76,85,49,84
+152,Rodrygo,,Real Madrid,RW,85,88,80,79,87,31,64
+153,Dani Olmo,,Fc Barcelona,CAM,85,73,79,83,87,50,56
+162,Marcos Llorente,,Atletico De Madrid,RB,84,89,79,78,81,78,82
+166,Sancet,,Athletic Club,CAM,84,76,83,80,85,70,82
+182,Aurélien Tchouaméni,,Real Madrid,CDM,84,71,69,79,78,81,82
+194,Wojciech Szczęsny,,Fc Barcelona,GK,84,82,83,75,84,48,84
+196,Álex Baena,,Atletico De Madrid,LM,84,79,76,84,82,65,68
+218,Éder Militão,,Real Madrid,CB,84,82,50,69,71,85,82
+220,Isco,,Real Betis,CAM,84,66,79,85,85,59,60
+223,Vivian,,Athletic Club,CB,84,79,50,63,72,84,83
+226,Alexander Sørloth,,Atletico De Madrid,ST,84,77,82,71,76,36,85
+235,Eduardo Camavinga,,Real Madrid,CM,83,80,68,81,84,78,80
+248,Ayoze,,Villarreal Cf,ST,83,86,83,80,83,59,67
+249,Iñaki Williams,,Athletic Club,RM,83,94,81,74,80,45,84
+254,Joan García,,Fc Barcelona,GK,83,81,82,77,86,46,83
+256,Álex Remiro,,Real Sociedad,GK,83,83,78,80,84,45,84
+258,Dávid Hancko,,Atletico De Madrid,CB,83,77,66,73,74,82,82
+266,Thomas Partey,,Villarreal Cf,CDM,83,59,71,80,77,80,82
+279,Gavi,,Fc Barcelona,CM,83,76,66,78,85,68,70
+281,Balde,,Fc Barcelona,LB,83,91,50,75,79,78,67
+292,Ferran Torres,,Fc Barcelona,LW,83,83,81,79,83,35,68
+298,Iago Aspas,,Celta,RW,83,77,84,80,84,35,62
+300,Ronald Araujo,,Fc Barcelona,CB,83,80,53,63,61,81,83
+308,José María Giménez,,Atletico De Madrid,CB,83,73,46,60,62,85,82
+313,Robin Le Normand,,Atletico De Madrid,CB,83,65,28,59,63,84,80
+343,Álex Berenguer,,Athletic Club,LM,82,84,77,79,84,65,69
+345,David Alaba,,Real Madrid,CB,82,68,71,82,79,82,75
+350,Giovani Lo Celso,,Real Betis,CAM,82,68,81,82,84,68,71
+360,Pablo Barrios,,Atletico De Madrid,CM,82,80,70,74,80,74,71
+397,Dean Huijsen,,Real Madrid,CB,82,71,55,73,74,82,76
+399,Oyarzabal,,Real Sociedad,ST,82,77,83,81,82,42,65
+400,Takefusa Kubo,,Real Sociedad,RM,82,86,77,78,85,40,64
+411,Parejo,,Villarreal Cf,CM,82,39,80,87,78,74,67
+429,Pau Cubarsí,,Fc Barcelona,CB,82,70,42,66,77,84,76
+435,Brahim,,Real Madrid,RM,82,82,74,79,85,31,58
+443,Ante Budimir,,Ca Osasuna,ST,82,59,84,63,76,35,80
+451,Conor Gallagher,,Atletico De Madrid,CM,81,75,76,80,78,79,84
+456,Sergi Darder,,Rcd Mallorca,LM,81,77,76,81,80,73,77
+465,Ferland Mendy,,Real Madrid,LB,81,85,64,74,75,78,84
+471,Yangel Herrera,,Real Sociedad,CM,81,65,76,77,79,80,81
+484,Brais Méndez,,Real Sociedad,CM,81,70,80,82,81,65,73
+485,Johnny Cardoso,,Atletico De Madrid,CDM,81,72,67,76,78,80,77
+494,Koke,,Atletico De Madrid,CM,81,61,72,83,78,76,77
+501,Gayà,,Valencia Cf,LB,81,80,61,76,77,77,72
+503,Giuliano Simeone,,Atletico De Madrid,RM,81,91,73,72,81,45,81
+516,David Soria,,Getafe Cf,GK,81,81,79,74,82,41,80
+521,Andriy Lunin,,Real Madrid,GK,81,80,78,79,82,37,80
+522,Antony,,Real Betis,RW,81,84,78,78,83,43,70
+530,Gerard Moreno,,Villarreal Cf,ST,81,77,82,77,80,46,71
+532,Dani Ceballos,,Real Madrid,CM,81,61,71,80,82,72,67
+543,Isi,,Rayo Vallecano,CAM,81,84,77,80,82,39,65
+560,Arda Güler,,Real Madrid,RM,81,70,77,83,83,52,50
+577,Raíllo,,Rcd Mallorca,CB,81,41,36,59,62,83,84
+593,Álvaro Carreras,,Real Madrid,LB,80,85,65,75,79,73,80
+597,Mauro Arambarri,,Getafe Cf,CM,80,65,79,76,77,79,79
+602,Mingueza,,Celta,RB,80,80,66,77,77,76,76
+617,Dominik Livaković,,Girona Fc,GK,80,80,76,71,83,56,80
+629,Ruiz de Galarreta,,Athletic Club,CDM,80,69,65,77,79,76,76
+640,Javi Galán,,Atletico De Madrid,LB,80,78,56,75,79,77,73
+682,Nicolas Pépé,,Villarreal Cf,RM,80,88,77,76,82,36,67
+692,Fermín,,Fc Barcelona,CAM,80,74,75,75,82,62,55
+693,Marcus Rashford,,Fc Barcelona,LM,80,87,82,77,80,33,63
+716,Álvaro García,,Rayo Vallecano,LM,80,88,70,77,81,51,45
+728,Borja Iglesias,,Celta,ST,80,62,82,71,74,40,77
+736,Diego Llorente,,Real Betis,CB,80,64,41,63,69,81,76
+739,Clément Lenglet,,Atletico De Madrid,CB,80,54,45,69,64,82,76
+743,Andreas Christensen,,Fc Barcelona,CB,80,64,32,67,70,81,74
+757,Yuri Berchiche,,Athletic Club,LB,79,79,68,74,75,77,82
+761,Paulo Gazzaniga,,Girona Fc,GK,79,79,78,81,78,57,78
+764,Andrei Rațiu,,Rayo Vallecano,RB,79,92,60,74,79,74,71
+777,Luis Milla,,Getafe Cf,CM,79,69,72,80,76,75,73
+782,Pablo Fornals,,Real Betis,CDM,79,65,75,80,80,73,71
+783,Nahuel Molina,,Atletico De Madrid,RB,79,82,67,73,76,75,71
+792,Marcos Alonso,,Celta,CB,79,57,74,80,74,80,77
+795,Sergio Gómez,,Real Sociedad,LM,79,73,74,80,79,71,65
+807,Pau López,,Real Betis,GK,79,77,77,78,79,48,79
+817,Juan Musso,,Atletico De Madrid,GK,79,79,77,73,82,44,81
+818,Sergio Herrera,,Ca Osasuna,GK,79,79,78,75,80,47,77
+827,Álvaro Valles,,Real Betis,GK,79,78,78,78,80,41,80
+834,Sergi Cardona,,Villarreal Cf,LB,79,82,56,71,75,75,75
+,,,,,,,,,,,
+RANK,PLAYER,NAT,TEAM,POS,OVR,PAC,SHO,PAS,DRI,DEF,PHY
+,,,,,,,,,,,
+845,Augusto Batalla,,Rayo Vallecano,GK,79,78,78,74,80,43,77
+846,Marko Dmitrović,,Rcd Espanyol,GK,79,76,79,78,80,37,80
+847,Guruzeta,,Athletic Club,ST,79,73,78,72,78,51,78
+848,Fran García,,Real Madrid,LB,79,89,50,70,78,72,71
+857,Arnau Martínez,,Girona Fc,RB,79,79,54,75,74,74,71
+866,Moleiro,,Villarreal Cf,LM,79,83,70,75,81,51,65
+871,Thiago Almada,,Atletico De Madrid,CAM,79,79,74,79,83,51,58
+878,Stole Dimitrievski,,Valencia Cf,GK,79,79,78,74,78,36,77
+890,Marc Bartra,,Real Betis,CB,79,64,59,70,71,80,75
+902,Viktor Tsygankov,,Girona Fc,RM,79,82,75,79,78,43,60
+916,Juan Foyth,,Villarreal Cf,CB,79,68,47,71,71,80,76
+923,Marc Casadó,,Fc Barcelona,CDM,79,57,64,72,80,77,62
+931,Eric García,,Fc Barcelona,CB,79,63,48,70,71,80,73
+965,Vedat Muriqi,,Rcd Mallorca,ST,79,50,81,63,71,29,82
+967,Catena,,Ca Osasuna,CB,79,64,39,63,53,79,78
+990,Luka Sučić,,Real Sociedad,CM,78,76,76,78,77,68,72
+999,Johan Mojica,,Rcd Mallorca,LB,78,88,65,73,73,74,70
+1000,Zubeldia,,Real Sociedad,CB,78,76,63,73,72,78,81
+1006,Jauregizar,,Athletic Club,CM,78,71,70,75,79,72,75
+1029,Pape Gueye,,Villarreal Cf,CM,78,67,65,75,75,76,79
+1039,Sofyan Amrabat,,Real Betis,CDM,78,61,70,73,74,75,82
+1052,Cucho,,Real Betis,ST,78,81,77,75,81,42,78
+1065,Ilaix Moriba,,Celta,CM,78,67,71,71,75,74,74
+1073,Puado,,Rcd Espanyol,ST,78,80,77,72,78,49,74
+1079,Beñat Prados,,Athletic Club,CDM,78,68,61,72,75,76,77
+1090,Pablo Maffeo,,Rcd Mallorca,RB,78,81,52,70,78,76,70
+1093,Santi Comesaña,,Villarreal Cf,CM,78,55,72,72,75,77,75
+1095,Moncayola,,Ca Osasuna,CM,78,63,67,75,78,73,70
+1105,Marc Roca,,Real Betis,CDM,78,59,66,75,74,75,75
+1125,Fran Beltrán,,Celta,CM,78,56,67,76,77,76,69
+1127,Samú Costa,,Rcd Mallorca,CDM,78,61,65,70,71,75,79
+1158,Luis Rioja,,Valencia Cf,RM,78,77,76,74,79,53,56
+1164,Nico Gonzalez,,Atletico De Madrid,RM,78,82,75,73,78,45,61
+1166,Hugo Duro,,Valencia Cf,ST,78,71,78,68,75,47,75
+1173,Chidera Ejuke,,Sevilla Fc,LM,78,90,69,71,82,37,63
+1180,De Frutos,,Rayo Vallecano,RM,78,81,74,74,78,41,63
+1207,Rubén García,,Ca Osasuna,RM,78,74,76,79,78,45,53
+1221,Diego López,,Valencia Cf,LM,78,81,75,72,76,37,62
+1227,Óscar Valentín,,Rayo Vallecano,CDM,78,64,50,67,68,76,76
+1236,Florian Lejeune,,Rayo Vallecano,CB,78,49,61,67,65,78,78
+1238,Giacomo Raspadori,,Atletico De Madrid,ST,78,78,78,71,84,28,58
+1249,Lucas Torró,,Ca Osasuna,CDM,78,39,63,69,68,76,75
+1251,Carlos Vicente,,D Alaves,RM,78,79,72,74,76,31,58
+1255,Bryan Gil,,Girona Fc,LM,78,84,70,75,81,31,45
+1258,Carl Starfelt,,Celta,CB,78,74,31,56,68,78,78
+1264,Flavien-Enzo Boyomo,,Ca Osasuna,CB,78,74,38,52,51,79,81
+1267,Aitor Paredes,,Athletic Club,CB,78,68,39,51,56,79,75
+1269,Natan,,Real Betis,CB,78,56,33,55,66,79,77
+1279,Aitor Ruibal,,Real Betis,RB,77,82,74,73,76,72,69
+1291,Javi Guerra,,Valencia Cf,CM,77,74,73,75,76,73,70
+1301,Carlos Soler,,Real Sociedad,CM,77,70,75,78,78,69,68
+1306,Pepelu,,Valencia Cf,CM,77,64,70,78,74,73,78
+1311,Pep Chavarría,,Rayo Vallecano,LB,77,83,62,71,74,71,75
+1324,Thomas Lemar,,Girona Fc,CM,77,72,75,79,80,67,59
+1330,Aitor,,Ca Osasuna,GK,77,77,74,68,80,56,76
+1342,Diego Rico,,Getafe Cf,LB,77,70,57,77,73,76,76
+1348,Iván Martín,,Girona Fc,CM,77,71,71,78,78,69,62
+1365,Valentin Rosier,,Ca Osasuna,RB,77,81,52,71,76,72,75
+1368,Nemanja Gudelj,,Sevilla Fc,CB,77,46,73,78,69,76,84
+1373,Álex Moreno,,Girona Fc,LB,77,76,62,72,74,75,66
+1379,Leo Román,,Rcd Mallorca,GK,77,76,75,72,78,49,75
+1385,Georges Mikautadze,,Villarreal Cf,ST,77,81,80,73,80,40,70
+1386,Terrats,,Rcd Espanyol,CM,77,61,70,74,75,72,72
+1405,Manu Morlanes,,Rcd Mallorca,CM,77,65,65,76,75,72,69
+1412,Aimar Oroz,,Ca Osasuna,CM,77,66,74,74,78,64,65
+1429,Riquelme,,Real Betis,LM,77,84,73,74,78,50,59
+1435,Moi Gómez,,Ca Osasuna,CM,77,64,74,79,77,61,61
+1439,Diego Conde,,Villarreal Cf,GK,77,75,75,68,79,43,76
+1453,Omar El Hilali,,Rcd Espanyol,RB,77,85,41,67,69,74,77
+1456,Franco Mastantuono,,Real Madrid,CAM,77,74,71,75,80,50,63
+1461,Pathé Ciss,,Rayo Vallecano,CDM,77,63,57,64,65,76,87
+1462,Altimira,,Real Betis,CDM,77,60,63,70,72,75,72
+1468,Gorosabel,,Athletic Club,RB,77,78,48,70,73,74,67
+1472,Luiz Júnior,,Villarreal Cf,GK,77,77,77,71,77,30,77
+1475,Abdul Mumin,,Rayo Vallecano,CB,77,76,49,61,69,77,76
+1482,Jon Mikel Aramburu,,Real Sociedad,RB,77,69,48,70,72,76,72
+1484,Daley Blind,,Girona Fc,CB,77,36,62,85,76,80,67
+1492,Cédric Bakambu,,Real Betis,ST,77,78,78,68,72,40,68
+1499,Cristhian Stuani,,Girona Fc,ST,77,61,79,69,70,48,76
+1504,Endrick,,Real Madrid,ST,77,87,77,62,78,30,68
+1510,Barrenetxea,,Real Sociedad,LM,77,81,72,72,78,29,68
+1514,Abdessamad Ezzalzouli,,Real Betis,LM,77,87,69,70,81,29,63
+1517,Dakonam Djené,,Getafe Cf,CB,77,66,43,67,67,77,77
+1518,Umar Sadiq,,Real Sociedad,ST,77,82,76,62,71,30,76
+1519,Manor Solomon,,Villarreal Cf,LM,77,83,73,73,80,43,45
+1523,Borja Mayoral,,Getafe Cf,ST,77,65,79,71,75,39,66
+1535,Asencio,,Real Madrid,CB,77,74,37,55,71,78,76
+1543,Axel Witsel,,Girona Fc,CB,77,31,63,76,74,79,66
+1551,David López,,Girona Fc,CB,77,40,60,71,64,77,72
+1554,Martin Valjent,,Rcd Mallorca,CB,77,62,36,59,65,78,83
+1557,Bryan Zaragoza,,Celta,LM,77,82,72,72,82,30,44
+1558,Logan Costa,,Villarreal Cf,CB,77,60,40,59,67,77,78
+1563,Aritz Elustondo,,Real Sociedad,CB,77,62,39,63,60,76,76
+1570,Marash Kumbulla,,Rcd Mallorca,CB,77,58,34,55,60,78,75
+1578,Djibril Sow,,Sevilla Fc,CM,76,78,69,73,76,74,78
+1594,Sivera,,D Alaves,GK,76,76,74,77,78,57,75
+1605,Renato Veiga,,Villarreal Cf,CB,76,73,60,73,72,75,82
+1610,Unai López,,Rayo Vallecano,CM,76,68,72,77,78,69,70
+1614,Javi Muñoz,,Getafe Cf,CM,76,72,65,74,74,70,78
+1632,Portu,,Girona Fc,RM,76,80,74,72,74,56,73
+,,,,,,,,,,,
+RANK,PLAYER,NAT,TEAM,POS,OVR,PAC,SHO,PAS,DRI,DEF,PHY
+,,,,,,,,,,,
+1639,Dani Rodríguez,,Rcd Mallorca,CAM,76,76,74,75,74,63,66
+1650,Carmona,,Sevilla Fc,RB,76,80,65,69,73,73,67
+1665,Thierry Correia,,Valencia Cf,RB,76,90,50,69,75,71,70
+1668,Ørjan Nyland,,Sevilla Fc,GK,76,76,75,77,75,47,74
+1672,Batista Mendy,,Sevilla Fc,CDM,76,69,61,67,70,74,83
+1699,Donny van de Beek,,Girona Fc,CAM,76,59,75,74,76,70,65
+1721,Iván Balliu,,Rayo Vallecano,RB,76,80,51,69,74,72,70
+1722,Joan Jordán,,Sevilla Fc,CM,76,48,74,77,74,68,75
+1747,André Silva,,Elche Cf,ST,76,72,76,70,75,46,74
+1750,Iñaki Peña,,Elche Cf,GK,76,75,73,77,78,35,75
+1751,Alexis Sánchez,,Sevilla Fc,ST,76,68,78,78,81,48,59
+1757,Lucas Beltrán,,Valencia Cf,CAM,76,71,76,68,77,46,74
+1759,Agirrezabala,,Valencia Cf,GK,76,76,74,78,75,32,77
+1760,Hugo Álvarez,,Celta,LM,76,72,68,73,76,63,60
+1769,Azzedine Ounahi,,Girona Fc,CM,76,64,66,73,77,63,67
+1775,Areso,,Athletic Club,RB,76,76,46,70,72,71,73
+1776,Nahuel Tenaglia,,D Alaves,RB,76,69,44,65,75,77,78
+1797,Baptiste Santamaria,,Valencia Cf,CDM,76,42,67,73,74,72,75
+1801,Javi Rodríguez,,Celta,RB,76,74,45,68,71,73,72
+1818,Valentín Gómez,,Real Betis,CB,76,80,32,64,71,76,75
+1821,Dani Raba,,Valencia Cf,RM,76,71,72,75,74,40,64
+1828,Alfon,,Sevilla Fc,RM,76,77,71,71,77,32,67
+1853,Ander Guevara,,D Alaves,CDM,76,41,63,72,71,72,69
+1874,Vladyslav Vanat,,Girona Fc,ST,76,79,77,60,74,26,67
+1888,Kike García,,Rcd Espanyol,ST,76,42,80,65,73,44,71
+1897,Mouctar Diakhaby,,Valencia Cf,CB,76,62,39,55,59,77,76
+1898,David Carmo,,R Oviedo,CB,76,59,39,59,51,77,83
+1921,Filip Ugrinić,,Valencia Cf,CM,75,77,73,74,75,69,85
+1922,Nelson Deossa,,Real Betis,CM,75,75,76,72,74,72,80
+1933,Pedraza,,Villarreal Cf,LB,75,77,71,72,73,73,71
+1945,Pedro Díaz,,Rayo Vallecano,CM,75,66,76,76,74,69,73
+1946,Adrià Pedrosa,,Elche Cf,LB,75,87,60,69,78,68,72
+1973,Abel Bretones,,Ca Osasuna,LB,75,77,65,70,69,70,77
+1975,Lekue,,Athletic Club,RB,75,79,62,70,71,71,74
+1979,Matteo Ruggeri,,Atletico De Madrid,LM,75,78,60,73,71,72,73
+1985,Edu Expósito,,Rcd Espanyol,CAM,75,62,73,75,77,70,69
+1987,Junior Firpo,,Real Betis,LB,75,74,61,72,72,72,75
+1991,Carlos Romero,,Rcd Espanyol,LB,75,77,65,71,74,70,69
+2008,Leander Dendoncker,,R Oviedo,CM,75,52,69,76,69,76,80
+2031,Juanlu Sánchez,,Sevilla Fc,RB,75,71,67,71,75,71,65
+2035,Yvan Neyou,,Getafe Cf,CM,75,62,63,71,77,74,72
+2036,Ruben Vargas,,Sevilla Fc,LM,75,84,70,69,78,54,64
+2054,André Almeida,,Valencia Cf,CAM,75,69,66,75,77,67,63
+2058,Sheraldo Becker,,Ca Osasuna,ST,75,92,72,70,76,35,71
+2067,Dani Cárdenas,,Rayo Vallecano,GK,75,74,73,73,76,44,75
+2077,Arnaut Danjuma,,Valencia Cf,LM,75,83,73,71,76,44,67
+2079,Aihen Muñoz,,Real Sociedad,LB,75,75,54,70,73,72,70
+2089,Yáser Asprilla,,Girona Fc,RM,75,80,72,73,76,50,62
+2092,Matías Dituro,,Elche Cf,GK,75,74,72,77,77,38,74
+2106,Lucien Agoumé,,Sevilla Fc,CDM,75,67,54,70,73,72,75
+2130,Aarón,,R Oviedo,GK,75,72,76,75,74,38,73
+2135,Carreira,,Celta,RM,75,76,52,72,75,68,65
+2145,Pol Lozano,,Rcd Espanyol,CDM,75,65,58,72,69,72,71
+2154,Francés,,Girona Fc,CB,75,75,45,67,67,75,77
+2161,Santi Cazorla,,R Oviedo,CAM,75,53,72,80,78,63,59
+2179,Gonçalo Guedes,,Real Sociedad,ST,75,76,76,70,78,37,66
+2187,Kiko Femenía,,Getafe Cf,RB,75,68,56,70,69,73,66
+2202,Omar Mascarell,,Rcd Mallorca,CM,75,47,64,71,74,72,71
+2211,Jutglà,,Celta,ST,75,76,75,65,77,29,77
+2218,Takuma Asano,,Rcd Mallorca,RM,75,84,69,64,79,33,69
+2230,David Affengruber,,Elche Cf,CB,75,73,41,56,69,75,83
+2245,Carlos Álvarez,,Levante Ud,RM,75,77,71,72,78,40,58
+2256,Josip Brekalo,,R Oviedo,LM,75,75,72,74,80,38,54
+2272,César Tárrega,,Valencia Cf,CB,75,63,45,59,67,75,80
+2310,Manu Sánchez,,Levante Ud,LB,75,70,44,64,70,73,60
+2332,Marcão,,Sevilla Fc,CB,75,59,36,59,68,73,81
+2343,Luiz Felipe,,Rayo Vallecano,CB,75,68,29,61,67,75,71
+2352,Kike Salas,,Sevilla Fc,CB,75,66,27,60,62,76,76
+2362,Leandro Cabrera,,Rcd Espanyol,CB,75,49,45,58,54,76,79
+2372,Joseph Aidoo,,Celta,CB,75,69,27,46,50,74,80
+2375,Copete,,Valencia Cf,CB,75,50,33,54,57,77,70
+2401,Tajon Buchanan,,Villarreal Cf,RM,74,90,65,66,74,67,73
+2420,Ezequiel Ávila,,Real Betis,RM,74,74,76,69,75,52,84
+2425,Ricardo Rodríguez,,Real Betis,LB,74,66,69,78,74,70,72
+2430,Alfonso Espino,,Rayo Vallecano,LB,74,84,60,67,68,69,81
+2444,Arnau Tenas,,Villarreal Cf,GK,74,73,70,81,77,52,72
+2473,Morales,,Levante Ud,ST,74,78,76,72,77,52,66
+2531,Olasagasti,,Levante Ud,CM,74,63,65,72,71,71,72
+2541,Williot Swedberg,,Celta,LW,74,74,69,71,76,61,62
+2548,Dimitri Foulquier,,Valencia Cf,RB,74,73,59,66,68,72,74
+2551,Gabriel Suazo,,Sevilla Fc,LB,74,68,59,69,71,70,75
+2566,Ionuț Andrei Radu,,Celta,GK,74,74,71,69,77,50,70
+2569,Brugui,,Levante Ud,ST,74,88,70,63,77,43,70
+2582,Álvaro,,Sevilla Fc,GK,74,75,71,68,76,47,73
+2605,Jonny,,D Alaves,RB,74,71,54,69,74,72,68
+2626,Arsen Zakharyan,,Real Sociedad,RM,74,78,71,74,72,53,59
+2634,Largie Ramazani,,Valencia Cf,LM,74,89,69,67,76,41,64
+2644,Héctor Bellerín,,Real Betis,RB,74,78,51,68,75,69,64
+2657,Odriozola,,Real Sociedad,RB,74,72,55,69,74,71,63
+2678,Gerard Martín,,Fc Barcelona,LB,74,71,52,70,69,72,68
+2705,Franco Cervi,,Celta,LM,74,82,66,71,76,55,50
+2724,Jofre,,Rcd Espanyol,RM,74,79,72,71,74,41,62
+2727,Vesga,,Athletic Club,CDM,74,40,74,69,64,73,78
+2728,Guridi,,D Alaves,CAM,74,60,69,72,76,65,56
+2732,Roberto,,Rcd Espanyol,ST,74,73,73,62,73,41,76
+2766,Denis Suárez,,D Alaves,CM,74,55,70,77,75,63,52
+2774,Bigas,,Elche Cf,CB,74,57,52,64,65,74,79
+2797,Pablo Durán,,Celta,ST,74,72,74,64,74,36,68
+2802,Robert Navarro,,Athletic Club,RM,74,74,69,70,77,34,63
+2810,Pablo Torre,,Rcd Mallorca,CAM,74,72,64,76,76,45,53
+,,,,,,,,,,,
+RANK,PLAYER,NAT,TEAM,POS,OVR,PAC,SHO,PAS,DRI,DEF,PHY
+,,,,,,,,,,,
+2815,Isaac,,Sevilla Fc,ST,74,78,72,68,73,23,71
+2819,Juan Iglesias,,Getafe Cf,RB,74,79,39,61,66,71,69
+2820,Orri Óskarsson,,Real Sociedad,ST,74,74,73,63,70,31,74
+2831,Juanmi,,Getafe Cf,ST,74,74,73,69,75,31,60
+2837,Elgezabal,,Levante Ud,CB,74,58,50,58,62,76,77
+2856,Juan Cruz,,Ca Osasuna,LB,74,69,40,62,64,73,71
+2862,Ilias Akhomach,,Villarreal Cf,RM,74,78,72,68,76,28,57
+2872,Adnan Januzaj,,Sevilla Fc,RW,74,70,69,76,78,30,54
+2877,Kike Barja,,Ca Osasuna,RM,74,74,66,69,74,35,58
+2880,Antonio Blanco,,D Alaves,CDM,74,46,59,72,67,70,62
+2883,Eric Bailly,,R Oviedo,CB,74,64,42,59,66,74,70
+2886,Toni Martínez,,D Alaves,ST,74,67,74,60,70,24,78
+2889,Santiago Mouriño,,Villarreal Cf,CB,74,67,36,56,64,73,77
+2895,Salomón Rondón,,R Oviedo,ST,74,51,75,66,70,33,75
+2912,Duje Ćaleta-Car,,Real Sociedad,CB,74,58,39,55,59,74,76
+2930,Herrando,,Ca Osasuna,CB,74,49,37,57,67,76,66
+2933,Carlos Domínguez,,Celta,CB,74,63,28,56,56,74,72
+2941,Abdelkabir Abqar,,Getafe Cf,CB,74,49,31,54,63,76,69
+2944,Domingos Duarte,,Getafe Cf,CB,74,42,36,57,52,75,74
+2949,Pacheco,,D Alaves,CB,74,48,22,52,51,75,68
+2963,Santiago Colombatto,,R Oviedo,CDM,73,71,70,73,71,69,78
+2987,Antonio Sánchez,,Rcd Mallorca,RM,73,72,66,73,73,65,75
+3009,Juan Carlos,,Girona Fc,GK,73,72,73,72,73,59,71
+3034,Pubill,,Atletico De Madrid,RB,73,79,55,66,71,69,78
+3037,Hugo Rincón,,Girona Fc,RB,73,81,62,66,70,67,72
+3052,Gorrotxa,,Real Sociedad,CDM,73,72,59,66,69,71,79
+3057,Pablo Martínez,,Levante Ud,LM,73,71,69,71,72,62,71
+3086,Alberto Reina,,R Oviedo,CM,73,66,69,71,73,66,68
+3097,Damián,,Celta,CM,73,71,60,70,71,70,70
+3102,Mihailo Ristić,,Celta,LB,73,73,64,66,72,68,68
+3106,Hugo Sotelo,,Celta,CM,73,69,66,70,72,67,67
+3113,Adama Boiro,,Athletic Club,LB,73,75,58,65,69,70,73
+3153,Lucas Boyé,,D Alaves,ST,73,69,73,64,72,49,80
+3173,Oriol Rey,,Levante Ud,CM,73,57,61,72,72,70,74
+3181,Turrientes,,Real Sociedad,CM,73,65,62,72,72,68,66
+3206,Adrián,,Real Betis,GK,73,68,76,72,68,43,75
+3212,Toni Lato,,Rcd Mallorca,LB,73,76,56,70,71,68,61
+3219,Pablo Marín,,Real Sociedad,CM,73,67,68,71,73,64,59
+3242,Nacho Vidal,,R Oviedo,RB,73,73,57,68,67,69,65
+3244,Abel Ruiz,,Girona Fc,ST,73,74,72,69,74,39,71
+3269,Aleñá,,D Alaves,RM,73,66,69,71,74,58,59
+3280,Gumbau,,Rayo Vallecano,CM,73,44,67,75,69,73,68
+3305,Iván Villar,,Celta,GK,73,72,71,71,76,32,72
+3323,Carlos Protesoni,,D Alaves,CDM,73,65,49,66,69,73,71
+3330,Marc Bernal,,Fc Barcelona,CDM,73,61,53,71,74,70,63
+3340,Javi López,,R Oviedo,LB,73,72,45,66,69,71,69
+3344,Kervin Arriaga,,Levante Ud,CDM,73,61,49,63,62,74,83
+3356,Mateu Morey,,Rcd Mallorca,RB,73,75,46,67,75,68,60
+3364,Jeremy Toljan,,Levante Ud,RB,73,82,42,66,70,66,64
+3384,Antoniu Roca,,Rcd Espanyol,RM,73,80,63,69,75,41,61
+3436,Unai Gómez,,Athletic Club,CAM,73,67,66,72,74,39,65
+3445,Maroan Sannadi,,Athletic Club,ST,73,69,71,59,68,33,81
+3448,Sergio Camello,,Rayo Vallecano,ST,73,70,73,68,74,33,63
+3461,Akor Jerome Adams,,Sevilla Fc,ST,73,77,72,56,70,29,75
+3477,Peque,,Sevilla Fc,CAM,73,77,71,69,74,35,51
+3480,Goduine Koyalipou,,Levante Ud,ST,73,75,72,60,70,31,68
+3490,Álex Sancris,,Getafe Cf,RM,73,79,68,70,70,29,58
+3501,Calero,,Rcd Espanyol,CB,73,60,42,65,65,73,67
+3521,Abdón Prats,,Rcd Mallorca,ST,73,65,75,61,73,29,65
+3535,Raúl García,,Ca Osasuna,ST,73,66,74,61,70,25,68
+3548,Dani Calvo,,R Oviedo,CB,73,51,46,53,55,73,80
+3560,Facundo Garcés,,D Alaves,CB,73,52,37,53,61,73,77
+3632,Federico Redondo,,Elche Cf,CM,72,72,61,69,72,69,77
+3685,Aleix Febas,,Elche Cf,CM,72,74,61,72,74,64,70
+3806,Dela,,Levante Ud,CB,72,72,60,63,63,73,73
+3826,Salinas,,Rcd Espanyol,LB,72,77,56,65,69,69,67
+3831,Altimira,,Villarreal Cf,RB,72,73,57,67,73,67,66
+3858,Josan,,Elche Cf,RM,72,80,67,66,74,67,46
+3886,Rafa Mir,,Elche Cf,ST,72,73,72,65,67,45,76
+3915,Álvaro Núñez,,Elche Cf,RB,72,75,44,68,70,67,73
+3920,Odysseas Vlachodimos,,Sevilla Fc,GK,72,73,72,66,71,42,72
+3947,Raúl Fernández,,D Alaves,GK,72,71,73,67,71,38,74
+3967,Ilyas Chaira,,R Oviedo,LM,72,79,69,69,73,40,63
+3986,David Costas,,R Oviedo,CB,72,69,46,63,67,71,75
+4100,Iker Losada,,Levante Ud,CAM,72,72,70,72,73,39,56
+4121,Eray Cömert,,Valencia Cf,CB,72,66,49,61,55,72,76
+4145,Haissem Hassan,,R Oviedo,RM,72,91,63,61,79,26,57
+4147,Fran Pérez,,Rayo Vallecano,RM,72,72,68,69,74,39,55
+4186,Federico Viñas,,R Oviedo,ST,72,73,72,56,70,25,76
+4188,Luca Koleosho,,Rcd Espanyol,LM,72,91,63,63,74,30,51
+4196,Urko González,,Rcd Espanyol,CDM,72,56,45,64,66,70,70
+4203,Pablo Ibáñez,,D Alaves,CM,72,51,59,68,69,66,57
+4241,Tanguy Nianzou,,Sevilla Fc,CB,72,62,37,56,63,71,75
+4267,Willy Kambwala,,Villarreal Cf,CB,72,66,30,56,64,71,71
+4323,Yoel Lago,,Celta,CB,72,62,27,56,56,72,71
